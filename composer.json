@@ -1,0 +1,20 @@
+{
+  "name": "contributte/event-bridges",
+  "description": "Meta-package for event bridges to Nette",
+  "keywords": ["nette", "events", "bridges"],
+  "type": "library",
+  "license": ["MIT"],
+  "homepage": "https://github.com/contributte/event-bridges",
+  "authors": [
+    {
+      "name": "Milan Felix Sulc",
+      "homepage": "https://f3l1x.io"
+    }
+  ],
+  "require": {
+    "php": ">= 5.6",
+    "contributte/event-dispatcher": "^0.3.0",
+    "contributte/event-application-bridge": "^0.1.1",
+    "contributte/event-security-bridge": "^0.1.0"
+  }
+}
