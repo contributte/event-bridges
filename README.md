@@ -1,6 +1,6 @@
-# Event Dispatcher > Application Event Bridge :recycle:
+# Event Dispatcher > Event Bridges :package:
 
-Simple bridge between [`Nette\Application`](https://github.com/nette/application/) and [`Contributte\EventDispatcher`](https://github.com/contributte/event-dispatcher).
+Collection of Nette bridges to [`Contributte\EventDispatcher`](https://github.com/contributte/event-dispatcher).
 
 -----
 
