@@ -18,7 +18,7 @@ Collection of Nette bridges to [`Contributte\EventDispatcher`](https://github.co
 
 ## Install
 
-```
+```bash
 composer require contributte/event-bridges
 ```
 
