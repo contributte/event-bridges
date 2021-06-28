@@ -1,9 +1,15 @@
 {
   "name": "contributte/event-bridges",
   "description": "Meta-package for event bridges to Nette",
-  "keywords": ["nette", "events", "bridges"],
+  "keywords": [
+    "nette",
+    "events",
+    "bridges"
+  ],
   "type": "library",
-  "license": ["MIT"],
+  "license": [
+    "MIT"
+  ],
   "homepage": "https://github.com/contributte/event-bridges",
   "authors": [
     {
