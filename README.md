@@ -15,7 +15,7 @@
 | :warning: | This project is no longer being maintained. Please use [contributte/event-dispatcher-extra](https://github.com/contributte/event-dispatcher-extra).
 |---|---|
 
-| Composer | [`contributte/event-bridges`](https://packagist.org/contributte/event-bridges) |
+| Composer | [`contributte/event-bridges`](https://packagist.org/packages/contributte/event-bridges) |
 |---| --- |
 | Version | ![](https://badgen.net/packagist/v/contributte/event-bridges) |
 | PHP | ![](https://badgen.net/packagist/php/contributte/event-bridges) |
